@@ -19,11 +19,11 @@ A simple and responsive multi-page food restaurant application built using React
 
 ## Screenshots 🖼️
 
-![footer](https://github.com/user-attachments/assets/f2b2977f-3ec5-4f28-ba65-2689d6dff390)
-![cart](https://github.com/user-attachments/assets/1f12f40a-bd56-4adb-9835-e1c47b643d31)
-![checkout](https://github.com/user-attachments/assets/44f02e21-5986-4bdc-961e-e01005e25623)
 ![hero](https://github.com/user-attachments/assets/d4b6655e-aae3-4744-b27b-e2b728964757)
 ![menu](https://github.com/user-attachments/assets/9938bbcf-e77b-439c-9cfd-909331f3c5a8)
+![cart](https://github.com/user-attachments/assets/1f12f40a-bd56-4adb-9835-e1c47b643d31)
+![checkout](https://github.com/user-attachments/assets/44f02e21-5986-4bdc-961e-e01005e25623)
+![footer](https://github.com/user-attachments/assets/f2b2977f-3ec5-4f28-ba65-2689d6dff390)
 
 
 
