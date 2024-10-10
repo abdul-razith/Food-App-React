@@ -17,6 +17,10 @@
     gap: 80px;
 }
 
+.footer-content-left img{
+    width: 210px;
+}
+
 .footer-content-left,
 .footer-content-right,
 .footer-content-center{

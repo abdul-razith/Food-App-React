@@ -6,7 +6,7 @@
 }
 
 .navbar .logo{
-    width: 150px;
+    width: 210px;
 }
 
 .navbar-menu{
@@ -27,14 +27,14 @@
     background: transparent;
     font-size: 1rem;
     color: #49557e;
-    border: 1px solid tomato;
+    border: 1px solid #00a857;
     padding: 10px 30px;
     border-radius: 15px;
     cursor: pointer;
     transition: 0.3;
 }
 .navbar button:hover{
-    background-color: #fff4f2;
+    background-color: #a5f7cf;
 }
 
 .navbar .active{
@@ -51,7 +51,7 @@
     position: absolute;
     min-width: 10px;
     min-height: 10px;
-    background-color: tomato;
+    background-color: #00a857;
     border-radius: 5px;
     top: -8px;
     right: -8px;
@@ -79,7 +79,7 @@
 }
 @media (max-width: 900px) {
     .navbar .logo{
-        width: 120px;
+        width: 130px;
     }
     .navbar-menu{
         gap: 15px;

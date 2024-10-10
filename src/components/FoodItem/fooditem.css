@@ -37,7 +37,7 @@
 }
 
 .food-item-price{
-    color: tomato;
+    color: #00a857;
     font-size: 1.375rem;
     font-weight: 500;
     margin: 10px 0;
@@ -52,8 +52,11 @@
     position: absolute;
     bottom: 15px;
     right: 15px;
-    cursor: pointer;
     border-radius: 50%;
+}
+
+.food-item-img-container img{
+    cursor: pointer;
 }
 
 .food-item-counter{
