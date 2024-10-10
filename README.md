@@ -1,5 +1,5 @@
 
-# 🍽️ GreenPlate: A Food Restaurant Application
+# 🌿 GreenPlate: A Food Restaurant Application 🍽️
 
 A simple and responsive multi-page food restaurant application built using React.js and modern web technologies. This app is designed as a frontend-only solution, allowing users to explore various food options, add them to their cart, and proceed to checkout.
 
