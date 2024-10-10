@@ -14,7 +14,7 @@ A simple and responsive multi-page food restaurant application built using React
 
 ## Demo Link 🌐
 
-🍲 You can check out the live demo of the project here: [GreenPlate](https://green--plate.web.app)
+You can check out the live demo of the project here: 🍲 [GreenPlate](https://green--plate.web.app)
 
 
 ## Screenshots 🖼️
